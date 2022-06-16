@@ -9,6 +9,6 @@ requirements.txt为环境，各包的版本，请看一看
 
 3.把解压出来的tcdata文件夹直接放入根目录（注意：因为里面是数据集，如果没有这一步是无法运行的！）
 
-4.在code文件夹里运行test.sh
+4.在code文件夹里用Git Bash运行test.sh
 
 5.等待运行结果，结果会输出在prediction_result文件夹里
